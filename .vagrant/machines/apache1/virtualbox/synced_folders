@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/joang/Desktop/Parcial2electiva2/apache1Joan_site","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/joang/Desktop/Parcial2electiva2","disabled":false,"__vagrantfile":true}}}
